@@ -1,6 +1,7 @@
 # sprint6
 Integrantes:
 jose ponce https://github.com/jmponcem/sprint6.git
+rocio venegas https://github.com/RoVenegasV/sprint6
 
 
 
